@@ -1,0 +1,5 @@
+# Convert two integers to complex numbers (sol2)
+r = int(input("real part : "))
+i = int(input("imag part : "))
+com = complex(r,i)
+print(com)
